@@ -1,0 +1,45 @@
+html,body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    width: 100%;
+}
+
+#header1{
+    min-height: 30px;
+    background: #8395a7;
+    padding: 0px 40px;
+}
+
+#header1 i{
+    margin: 5px 5px;
+
+    color:#000;
+}
+
+#header2{
+    min-height: 50px;
+    text-align: center;
+    background: #c8d6e5;
+    padding: 15px 0px;
+}
+
+#logo{
+    width: 20%;
+    float: left;
+}
+
+#brand-name{
+    width: 80%;
+    float: left;
+}
